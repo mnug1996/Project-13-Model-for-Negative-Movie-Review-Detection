@@ -1,4 +1,4 @@
-# Project 13: Model for Dectection of Negative Movie Reviews
+# Project 13: Model for Detection of Negative Movie Reviews
 
 ## Introduction to the project:
 
